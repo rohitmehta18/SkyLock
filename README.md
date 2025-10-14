@@ -10,7 +10,6 @@ Markdown
 
 A smart, real-time surveillance application that uses facial recognition to identify known and unknown individuals. The system automatically captures images of unknown persons, sends instant email alerts with photographic evidence, and allows for a remote PC lockdown via a secret email command.
 
----
 
 ## Core Features
 
@@ -140,6 +139,6 @@ Fill in your details, including the 16-digit App Password you just generated.
  Fill in your sender email and the recipient email.
 IMPORTANT: Paste your 16-character Google App Password here.
 
-EMAIL_SENDER="your_email@gmail.com"
-EMAIL_PASSWORD="the_16_digit_app_password"
-EMAIL_RECIPIENT="recipient_email@example.com"
+EMAIL_SENDER="your__email@gmail.com"
+EMAIL_PASSWORD="the_16__digit_app_password"
+EMAIL_RECIPIENT="recipient__email@example.com"
