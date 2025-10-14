@@ -23,3 +23,16 @@ IMAGES_TO_CAPTURE = 5
 CAPTURE_DELAY_SECONDS = 0.2
 # Cooldown in seconds before another alert can be triggered.
 ALERT_COOLDOWN_SECONDS = 10.0
+
+
+# --- NEW: Email Alert Settings ---
+# IMPORTANT: For Gmail, you must generate an "App Password"
+# Do NOT use your regular Gmail password here.
+EMAIL_SENDER = "rmehta1836@gmail.com"
+EMAIL_PASSWORD = "xxrl tntp yzin nazp" # <-- PASTE YOUR APP PASSWORD HERE
+EMAIL_RECIPIENT = "rohit.mehta.s84@kalvium.community"
+
+
+
+
+
