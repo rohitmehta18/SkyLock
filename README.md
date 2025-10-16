@@ -1,8 +1,7 @@
 Markdown
 
-# Digital Security System with Remote Access
+# SkyLock
 
-![Project Banner](https://placehold.co/1200x300/000000/FFFFFF?text=Digital%20Security%20System&font=montserrat)
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
